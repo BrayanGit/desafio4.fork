@@ -1,37 +1,36 @@
 /* Configuración para la página completa */
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   /* background-color: black; */
   /* color: black; */
 }
 
-.fondo_verde{
-  background-color: #28a745;;
-
-  
+.fondo_verde {
+  background-color: #28a745;
 }
 
-.advice-title{
+.advice-title {
   font-size: 20px;
   font-weight: 300;
   line-height: 24px;
-
 }
 
-.advice-marca{
+.advice-marca {
   font-size: 16px;
   font-weight: 300;
   line-height: 19px;
 }
 
-.advice-address{
+.advice-address {
   font-size: 13px;
   font-weight: 300;
   line-height: 15px;
-
 }
 
-.advice-pricing{
+.advice-pricing {
+}
 
+.h2{
+  text-align: center;
 
 }

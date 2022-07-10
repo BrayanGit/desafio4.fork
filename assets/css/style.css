@@ -34,3 +34,7 @@ body {
 .advice-pricing {
 }
 
+.feature i {
+  /* display: block; */
+  padding: 2px;
+}

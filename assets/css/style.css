@@ -5,33 +5,46 @@ body {
   /* color: black; */
 }
 
-/* .fondo_verde {
+.fondo_verde {
   background-color: #28a745;
-} */
+} 
 
 /* .color-precio-verde {
   color: #28A745;
 } */
 
 .advice-title {
-  font-size: 20px;
-  font-weight: 300;
-  line-height: 24px;
+  font-weight: 300; /*light*/
+  /* line-height: 24px; */
 }
 
-.advice-marca {
-  font-size: 16px;
+.color-gris707070 {
+color: #707070;
+}
+
+.weight-light {
   font-weight: 300;
-  line-height: 19px;
+}
+
+.advice-brand {
+  /* font-size: 16px; */
+  font-weight: 300; /*light*/
+  color: #707070;
+  /* line-height: 19px; */
 }
 
 .advice-address {
   font-size: 13px;
-  font-weight: 300;
-  line-height: 15px;
-}
+  font-weight: 300; /*light*/
+  color: #707070;
+  /* line-height: 15px; */
+} 
 
 .advice-pricing {
+}
+
+.low-prices {
+  font-weight: 500; /*light*/
 }
 
 .feature i {
